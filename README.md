@@ -1,4 +1,5 @@
-# Odin-Recipes Project
-This project will be consisting on what knowledge i have acquired about HTML.
-I will be making a little page to test what i learned.
-In this case it's going to be about a little list of recipes.
+# Odin Recipes Project
+
+This project demonstrates the HTML knowledge I have acquired.  
+I created a simple web page to practice and showcase what I’ve learned.  
+The page features a small list of recipes.
