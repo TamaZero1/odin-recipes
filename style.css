@@ -1,0 +1,17 @@
+h1 {
+    color: pink;
+}
+
+.reference {
+    color: cyan;
+    text-decoration: none;
+}
+
+body {
+    background-color: rgb(85, 83, 83);
+}
+
+.home-button {
+    text-decoration: none;
+    color: rgb(248, 167, 184);
+}
