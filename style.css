@@ -1,5 +1,7 @@
 h1 {
     color: pink;
+    text-align: center;
+    font-size: 50px;
 }
 
 .reference {
@@ -14,4 +16,25 @@ body {
 .home-button {
     text-decoration: none;
     color: rgb(248, 167, 184);
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+
+}
+
+.recipe {
+    width: 306px;
+    height: 240px;
+    background: rgb(93, 64, 119);
+    border: solid pink;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
